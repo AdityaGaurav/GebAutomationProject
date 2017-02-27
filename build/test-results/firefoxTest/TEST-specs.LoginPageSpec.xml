@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="specs.LoginPageSpec" tests="1" skipped="0" failures="1" errors="0" timestamp="2017-02-27T08:26:32" hostname="PRINHYLTPAP1022.local" time="41.483">
+  <properties/>
+  <testcase name="perform login operation" classname="specs.LoginPageSpec" time="41.483">
+    <failure message="geb.error.RequiredPageContentNotPresent: The required page content 'pages.MobileDescriptionPage -&gt; mobileDescriptionPageModule: modules.MobileDescriptionPageModule -&gt; deliverHereButton: geb.navigator.EmptyNavigator' is not present" type="geb.error.RequiredPageContentNotPresent">geb.error.RequiredPageContentNotPresent: The required page content 'pages.MobileDescriptionPage -&gt; mobileDescriptionPageModule: modules.MobileDescriptionPageModule -&gt; deliverHereButton: geb.navigator.EmptyNavigator' is not present
+	at geb.content.TemplateDerivedPageContent.require(TemplateDerivedPageContent.groovy:60)
+	at geb.content.PageContentTemplate.create_closure1(PageContentTemplate.groovy:63)
+	at geb.content.PageContentTemplate.create_closure1(PageContentTemplate.groovy)
+	at geb.content.PageContentTemplate.create(PageContentTemplate.groovy:82)
+	at geb.content.PageContentTemplate.get(PageContentTemplate.groovy:54)
+	at geb.content.DefaultPageContentSupport.getContent(DefaultPageContentSupport.groovy:42)
+	at geb.content.PageContentSupport.propertyMissing(PageContentSupport.groovy:39)
+	at geb.Module.propertyMissing(Module.groovy:106)
+	at geb.content.TemplateDerivedPageContent.propertyMissing(TemplateDerivedPageContent.groovy:88)
+	at pages.MobileDescriptionPage.addToCart(MobileDescriptionPage.groovy:19)
+	at geb.Browser.methodMissing(Browser.groovy:209)
+	at geb.spock.GebSpec.methodMissing(GebSpec.groovy:56)
+	at specs.LoginPageSpec.perform login operation(LoginPageSpec.groovy:50)
+</failure>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

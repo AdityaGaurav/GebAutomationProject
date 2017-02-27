@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="specs.LoginPageSpec" tests="1" skipped="0" failures="1" errors="0" timestamp="2017-02-24T20:12:36" hostname="PRINHYLTPAP1022.local" time="0.291">
+  <properties/>
+  <testcase name="perform login operation" classname="specs.LoginPageSpec" time="0.291">
+    <failure message="geb.error.PageInstanceNotInitializedException: Instance of page class pages.LoginPage has not been initialized. Please pass it to Browser.to(), Browser.via(), Browser.page() or Browser.at() before using it." type="geb.error.PageInstanceNotInitializedException">geb.error.PageInstanceNotInitializedException: Instance of page class pages.LoginPage has not been initialized. Please pass it to Browser.to(), Browser.via(), Browser.page() or Browser.at() before using it.
+	at geb.Page.uninitializedException(Page.groovy:550)
+	at geb.content.UninitializedPageContentSupport.getContent(UninitializedPageContentSupport.groovy:30)
+	at geb.content.PageContentSupport.propertyMissing(PageContentSupport.groovy:39)
+	at geb.Page.propertyMissing(Page.groovy:112)
+	at pages.LoginPage.loginIntoApplication(LoginPage.groovy:23)
+	at specs.LoginPageSpec.perform login operation(LoginPageSpec.groovy:25)
+</failure>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
