@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="781be5a1-4e66-4575-a4a4-118c251d3cff" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/groovy/modules/HomePageModule.groovy" afterPath="$PROJECT_DIR$/src/test/groovy/modules/HomePageModule.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/groovy/modules/MobileDescriptionPageModule.groovy" afterPath="$PROJECT_DIR$/src/test/groovy/modules/MobileDescriptionPageModule.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/groovy/pages/MobileDescriptionPage.groovy" afterPath="$PROJECT_DIR$/src/test/groovy/pages/MobileDescriptionPage.groovy" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/groovy/specs/LoginPageSpec.groovy" afterPath="$PROJECT_DIR$/src/test/groovy/specs/LoginPageSpec.groovy" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -88,8 +83,8 @@
       <file leaf-file-name="LoginPageSpec.groovy" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/groovy/specs/LoginPageSpec.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="28" column="34" lean-forward="false" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
+            <state relative-caret-position="300">
+              <caret line="31" column="12" lean-forward="true" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
               <folding>
                 <element signature="e#15#53#0" expanded="true" />
               </folding>
@@ -1596,8 +1591,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/groovy/specs/LoginPageSpec.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="28" column="34" lean-forward="false" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
+        <state relative-caret-position="300">
+          <caret line="31" column="12" lean-forward="true" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
           <folding>
             <element signature="e#15#53#0" expanded="true" />
           </folding>
