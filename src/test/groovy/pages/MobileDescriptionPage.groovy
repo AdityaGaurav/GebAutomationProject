@@ -16,7 +16,8 @@ class MobileDescriptionPage extends Page {
 
     def addToCart(){
         mobileDescriptionPageModule.buyNoWButton.click()
-        mobileDescriptionPageModule.deliverHereButton.click()
         mobileDescriptionPageModule.continueButton.click()
+//        mobileDescriptionPageModule.deliverHereButton.click()
+
     }
 }

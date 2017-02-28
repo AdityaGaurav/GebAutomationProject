@@ -26,7 +26,7 @@ class LoginPageSpec extends GebSpec {
 
         when:
         waitFor { at LoginPage }
-        loginIntoApplication("aditya.smit@gmail.com", "Aditya@9389")
+        loginIntoApplication("", "")
 
         then:
         true

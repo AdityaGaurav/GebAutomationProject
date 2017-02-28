@@ -7,8 +7,9 @@ import geb.Module
  */
 class HomePageModule extends Module {
 
-    static content = {
+     static content = {
         electronicsLink { $('a[title="Electronics"]') }
+        title{browser.getTitle()}
         samsungLink {$('._1KCOnI>._3ZgIXy[title="Samsung"][href="/mobiles/samsung~brand/pr?sid=tyy,4io&otracker=nmenu_sub_Electronics_0_Samsung"]')}
     }
 
